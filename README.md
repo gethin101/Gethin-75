@@ -146,7 +146,8 @@ Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/
 | 5 | Custom PCB | (Quote estimate) | £ | $ | [JLCPCB]([https://www.aliexpress.com/item/1005006832476105.html](https://jlcpcb.com/)) |
 | 1 | Micro USB -> USB cable | 0.5m | £0.76 | $1.01 | [AE](https://www.aliexpress.com/item/1005010780201113.html?spm=a2g0o.productlist.main.16.7f741d2cOGG0xK&aem_p4p_detail=202602230852364118403405941300003602574&algo_pvid=35e52be6-0cf6-420a-84c9-cdfe8f8491df&algo_exp_id=35e52be6-0cf6-420a-84c9-cdfe8f8491df-15&pdp_ext_f=%7B%22order%22%3A%2219%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%212.05%212.05%21%21%2118.53%2118.53%21%402103917f17718655566881318e542f%2112000053504715781%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=BtGmqK0yH3f5&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010780201113%7C_p_origin_prod%3A&search_p4p_id=202602230852364118403405941300003602574_4) |
 | 2 | 3D Print case and plate | #printing-legion | £ | $ | [Slack](https://hackclub.enterprise.slack.com/archives/C083P4FJM46) |
-| **390** | **Total cost:** | **Not counting shipping** | **£29.29** | **$40.48** | [BOM](/Bom.md) |
+| 0 | Shipping (will refund if extra) | Told to put this | £10 | $13.37 | [Slack](https://hackclub.enterprise.slack.com/archives/C083P4FJM46) |
+| **390** | **Total cost:** | **Not counting shipping** | **£39.29** | **$53.85** | [BOM](/Bom.md) |
 
 # Stabilizers 
 
