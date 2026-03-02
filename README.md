@@ -150,7 +150,7 @@ Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/
 
 **Please note that I was told to add an extra estimate for shipping costs as well as the printing legion costs that I will return to HQ if not used**
 
-**Also, with aliexpress, lots of the prices have been fluctuations up and down by about £12 but I have just put down the current prices for my BOM**
+**Also lots of the AliExpress prices have been fluctuating up and down but I have just put down the current prices for my BOM**
 
 # Cart Screenshots
 
