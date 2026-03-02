@@ -5,10 +5,9 @@ I made this project to learn the fundamentals of how keyboards and macropads wor
 
 ![KiCad](https://img.shields.io/badge/kicad-%2300578F.svg?style=for-the-badge&logo=kicad&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 
-  <a href="#Keys">BOM</a> •
+  <a href="#BOM">BOM</a> •
   <a href="#Images">Images</a> •
   <a href="#Firmware">Firmware</a> •
-  <a href="#BOM">BOM</a> •
   <a href="#Full Wiring Table">Wiring</a> •
   <a href="#Keys">Keys</a> •
   <a href="#Stabilizers">Stabilizers</a> 
