@@ -148,6 +148,18 @@ Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/
 | 0 | Shipping (will refund if extra) | Told to put this | £10 | $13.37 | [Slack](https://hackclub.enterprise.slack.com/archives/C083P4FJM46) |
 | **390** | **Total cost:** | **Not counting shipping** | **£51.05** | **$69.57** | [BOM](/Bom.md) |
 
+# Cart Screenshots
+
+<details>
+<summary>Click to expand cart screenshots</summary>
+<img src="/assets/cart_1.png" alt="cart" height="120%"/>
+<img src="/assets/cart_2.png" alt="cart" height="120%"/>
+<img src="/assets/cart_pcb.png" alt="cart" height="120%"/>
+<img src="/assets/cart_pi.png" alt="cart" height="120%"/>
+</details>
+
+
+
 # Stabilizers 
 
 My spacebar, left shift, right shift, enter and backspace all need MX stabilizers as they are above 2u and these will be plate-mounted.
