@@ -193,14 +193,14 @@ My spacebar, left shift, right shift, enter and backspace all need MX stabilizer
 - [✅] Firmware present (even if untested)  
 - [ ] Design sanity‑checked with someone else  
 
-- [ ] BOM in CSV format in the root directory, with links  
-- [ ] PCB source files (.kicad_pro, .kicad_sch, gerbers.zip, etc.) if applicable  
-- [ ] A .STEP file of the full 3D CAD model including electronics  
-- [ ] Source CAD files (.f3d, .FCStd, etc., or OnShape public link in README)  
-- [ ] All other project files included (firmware, libraries, references, etc.)  
-- [ ] Repository organized into readable, logical folders  
+- [✅] BOM in CSV format in the root directory, with links  
+- [✅] PCB source files (.kicad_pro, .kicad_sch, gerbers.zip, etc.) if applicable  
+- [✅] A .STEP file of the full 3D CAD model including electronics  
+- [✅] Source CAD files (.f3d, .FCStd, etc., or OnShape public link in README)  
+- [✅] All other project files included (firmware, libraries, references, etc.)  
+- [✅] Repository organized into readable, logical folders  
 
-> ⚠️ **Important:** Missing a complete .STEP file with all electronics and CAD will result in project rejection.
+> ⚠️ **Important:** Missing a complete .STEP file with all electronics and CAD will result in project rejection. ✅
 
 
 Designed and built by [@gethin101](https://github.com/gethin101)
