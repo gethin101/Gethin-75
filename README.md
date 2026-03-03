@@ -8,7 +8,7 @@ I made this project to learn the fundamentals of how keyboards and macropads wor
   <a href="#BOM">BOM</a> •
   <a href="#Images">Images</a> •
   <a href="#Firmware">Firmware</a> •
-  <a href="#Full Wiring Table">Wiring</a> •
+  <a href="#Full-Wiring-Table">Wiring</a> •
   <a href="#Keys">Keys</a> •
   <a href="#Stabilizers">Stabilizers</a> 
 
