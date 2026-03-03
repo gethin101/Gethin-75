@@ -186,7 +186,7 @@ My spacebar, left shift, right shift, enter and backspace all need MX stabilizer
 - [✅ ] Screenshot of a full 3D model of your project  
 - [✅ ] Screenshot of your PCB (if applicable)  
 - [✅ ] Wiring diagram (if any wiring is not on a PCB)  
-- [✅] Bill of Materials (BOM) in table format at the end of the README, with links  
+- [✅] Bill of Materials (BOM) in table format at the end of the README, with links [BOM](/BOM.md)
 
 - [✅] Fully original, customized design (not a direct copy of any guide)  
 - [✅] Complete CAD assembly including all components (electronics included)  
