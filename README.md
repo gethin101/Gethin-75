@@ -157,7 +157,7 @@ Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/
 <summary>Click to expand cart screenshots</summary>
 <img src="/assets/ali_1.png" alt="cart" height="120%"/>
 <img src="/assets/ali_2.png" alt="cart" height="120%"/>
-<img src="/assets/pcb_cart.png" alt="cart" height="120%"/>
+<img src="/assets/cart_pcb.png" alt="cart" height="120%"/>
 </details>
 
 
