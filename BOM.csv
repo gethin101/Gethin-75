@@ -8,4 +8,4 @@ Qty,Item,Notes,Cost (£),USD ($),Link
 5,Custom PCB,Gerber quote,11.76,15.72,https://jlcpcb.com/
 2,3D Print case and plate,#printing-legion (estimate),8,10.68,https://www.github.com/gethin101
 0,Shipping (will refund if extra),Told to put this,10,13.37,https://hackclub.enterprise.slack.com/archives/C083P4FJM46
-390,Total cost:,May vary slightly,68.08,90.94,/Bom.md
+390,Total cost:,May vary slightly,68.08,90.94,/Bom.csv
