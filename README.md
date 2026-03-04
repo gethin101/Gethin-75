@@ -30,7 +30,7 @@ Here, you can see my KiCad schematic, PCB layout and 3D model of my PCB. On the 
 
 <details>
 <summary>Click to see schematic</summary>
-<img src="/assets/schematic.png" alt="schematic" height="120%"/>
+<img src="/assets/schem.png" alt="schematic" height="120%"/>
 </details>
 
 <details>
@@ -47,7 +47,7 @@ Here, you can see my KiCad schematic, PCB layout and 3D model of my PCB. On the 
 
 | PCB | CAD |
 |-----|-----|
-| <img src="assets/schematic.png" width="700"> | <img src="assets/case.png" width="700"> |
+| <img src="assets/schem.png" width="700"> | <img src="assets/case.png" width="700"> |
 | <img src="assets/pcb.png" width="700"> | <img src="assets/plate.png" width="700"> |
 | <img src="assets/pcb_3D.png" width="700"> | <img src="assets/assembly.png" width="700"> |
 
