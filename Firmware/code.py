@@ -1,50 +1,11 @@
-#KMK - by gethin101
-from kmk.bootcfg import bootcfg
-
-bootcfg(
-    usb_id={'manufacturer': "Gethin101", 'product': "Gethin-75"},
-)
-
+# KMK - gethin101
 
 import board
 from kmk.kmk_keyboard import KMKKeyboard
 from kmk.scanners import DiodeOrientation
-from kmk.keys import KC, make_key
-
-MAC1 = make_key("MAC1")  # (back)
-MAC2 = make_key("MAC2")  # (pause/play)
-MAC3 = make_key("MAC3")  # (next)
-MAC5 = make_key("MAC5")  # (vol down)
-MAC6 = make_key("MAC6")  # (vol up)
-MAC7 = make_key("MAC7")  # (lock)
-MAC8 = make_key("MAC8")  # (file explorer)
-MAC9 = make_key("MAC9")  # (task manager)
-
-
-def handle_macro(keycode, keyboard):
-    if keycode == MAC1:
-        keyboard.tap_key(KC.MPRV)
-
-    elif keycode == MAC2:
-        keyboard.tap_key(KC.MPLY)
-
-    elif keycode == MAC3:
-        keyboard.tap_key(KC.MNXT)
-
-    elif keycode == MAC5:
-        keyboard.tap_key(KC.VOLD)
-
-    elif keycode == MAC6:
-        keyboard.tap_key(KC.VOLU)
-
-    elif keycode == MAC7:
-        keyboard.tap_key(KC.LGUI, KC.L)
-
-    elif keycode == MAC8:
-        keyboard.tap_key(KC.LGUI, KC.E)
-
-    elif keycode == MAC9:
-        keyboard.tap_key(KC.LCTRL, KC.LSHIFT, KC.ESC)
+from kmk.keys import KC
+from kmk.handlers.sequences import simple_key_sequence
+from kmk.extensions.media_keys import MediaKeys
 
 
 class Gethin75(KMKKeyboard):
@@ -77,57 +38,59 @@ class Gethin75(KMKKeyboard):
         board.GP27,
     )
 
-    #switch if diodes wrong way
-    diode_orientation = DiodeOrientation.COL2ROW
+    diode_orientation = DiodeOrientation.ROW2COL
 
 
 keyboard = Gethin75()
+keyboard.extensions.append(MediaKeys())
 
-
+MAC1 = simple_key_sequence((KC.MPRV,))
+MAC2 = simple_key_sequence((KC.MPLY,))
+MAC3 = simple_key_sequence((KC.MNXT,))
+MAC5 = simple_key_sequence((KC.VOLD,))
+MAC6 = simple_key_sequence((KC.VOLU,))
+MAC7 = simple_key_sequence((KC.LGUI, KC.L,))
+MAC8 = simple_key_sequence((KC.LGUI, KC.E,))
+MAC9 = simple_key_sequence((KC.LCTRL, KC.LSHIFT, KC.ESC,))
 
 keyboard.keymap = [
     [
         KC.ESC, KC.F1, KC.F2, KC.F3, KC.F4,
         KC.F5, KC.F6, KC.F7, KC.F8,
         KC.F9, KC.F10, KC.F11, KC.F12,
-        MAC1, MAC2, MAC3, KC.NO,
+        MAC1, MAC2, MAC3, KC.NO, KC.NO,
     ],
 
     [
         KC.GRAVE, KC.N1, KC.N2, KC.N3, KC.N4, KC.N5, KC.N6, KC.N7, KC.N8,
-        KC.N9, KC.N0, KC.MINUS, KC.EQUAL, KC.BSPC, KC.INS, KC.HOME, KC.PGUP,
+        KC.N9, KC.N0, KC.MINUS, KC.EQUAL, KC.BSPC, KC.INS, KC.HOME, KC.PGUP, KC.NO,
     ],
 
     [
         KC.TAB, KC.Q, KC.W, KC.E, KC.R, KC.T, KC.Y, KC.U, KC.I,
         KC.O, KC.P, KC.LBRC, KC.RBRC,
-        KC.ENTER, KC.DEL, KC.END, KC.PGDN,
+        KC.ENTER, KC.DEL, KC.END, KC.PGDN, KC.NO,
     ],
 
     [
         KC.CAPS, KC.A, KC.S, KC.D, KC.F, KC.G, KC.H, KC.J, KC.K,
         KC.L, KC.SCLN, KC.QUOT, KC.NUHS,
-        MAC5, MAC6, MAC7, KC.NO,
+        MAC5, MAC6, MAC7, KC.NO, KC.NO,
     ],
 
     [
         KC.LSFT, KC.NUBS, KC.Z, KC.X, KC.C, KC.V, KC.B, KC.N, KC.M,
         KC.COMMA, KC.DOT, KC.SLSH, KC.RSFT,
-        MAC8, KC.UP, MAC9, KC.NO,
+        MAC8, KC.UP, MAC9, KC.NO, KC.NO,
     ],
 
     [
         KC.LCTL, KC.LGUI, KC.LALT, KC.SPC,
         KC.RALT, KC.RGUI, KC.APP, KC.RCTL,
         KC.LEFT, KC.DOWN, KC.RIGHT,
-        KC.NO, KC.NO, KC.NO, KC.NO, KC.NO, KC.NO,
+        KC.NO, KC.NO, KC.NO, KC.NO, KC.NO, KC.NO, KC.NO,
     ],
 ]
-
-
-@keyboard.hook
-def macro_hook(key, keyboard):
-    handle_macro(key, keyboard)
 
 
 if __name__ == '__main__':
