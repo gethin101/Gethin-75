@@ -193,7 +193,7 @@ My spacebar, left shift, right shift, enter and backspace all need MX stabilizer
 - [✅] Fully original, customized design (not a direct copy of any guide)  
 - [✅] Complete CAD assembly including all components (electronics included)  
 - [✅] Firmware present (even if untested)  
-- [✅] Design sanity‑checked with someone else  [(checked by @krunch)](https://hackclub.enterprise.slack.com/team/U0828MFCD99)
+- [✅] Design sanity‑checked with someone else  [(checked by @krunch)](https://hackclub.enterprise.slack.com/team/U0828MFCD99) + preliminary approved by [@shadow](https://hackclub.enterprise.slack.com/team/U09V9HPQAMD)
 
 - [✅] BOM in CSV format in the root directory, with links  
 - [✅] PCB source files (.kicad_pro, .kicad_sch, gerbers.zip, etc.) if applicable  
