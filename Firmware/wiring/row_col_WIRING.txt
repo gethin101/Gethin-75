@@ -1,0 +1,26 @@
+Row 0 = GP2
+Row 1 = GP3
+Row 2 = GP4
+Row 3 = GP5
+Row 4 = GP6
+Row 5 = GP7
+
+Col 0 = GP8
+Col 1 = GP9
+Col 2 = GP10
+Col 3 = GP11
+Col 4 = GP12
+Col 5 = GP13
+Col 6 = GP14
+Col 7 = GP15
+Col 8 = GP16
+Col 9 = GP17
+Col 10 = GP18
+Col 11 = GP19
+Col 12 = GP20
+Col 13 = GP21
+Col 14 = GP22
+Col 15 = GPIO26_ADC0
+Col 16 = GPIO27_ADC1
+
+ROW2COL
