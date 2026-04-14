@@ -23,8 +23,15 @@ I made this project to learn the fundamentals of how keyboards and macropads wor
 - **Rubber feet pads for stability**
 - **Easy assembly with no screws**
 
+# Final Build
+| PCB | CAD |
+|-----|-----|
+| <img src="assets/schem.png" width="700"> | <img src="assets/case.png" width="700"> |
+| <img src="assets/pcb.png" width="700"> | <img src="assets/plate.png" width="700"> |
+| <img src="assets/pcb_3D.png" width="700"> | <img src="assets/assembly.png" width="700"> |
 
-# Images
+
+# Design Images
 Here, you can see my KiCad schematic, PCB layout and 3D model of my PCB. On the right, you can see my keyboard bottom case I modelled in Fusion 360 as well as my custom plate and an assembly image.
 <br>
 
