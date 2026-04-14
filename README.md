@@ -185,7 +185,7 @@ My spacebar, left shift, right shift, enter and backspace all need MX stabilizer
 
 ---
 
- <img src="assets/build/8.jpeg" width="800">
+ <img src="assets/build/8.jpeg" width="800" height="600">
 
 ---
 
