@@ -75,6 +75,8 @@ Here, you can see my KiCad schematic, PCB layout and 3D model of my PCB. On the 
 
  <div align="center"><img src="assets/pcb.png" width="900"></div>
 
+ <img src="assets/build/1.jpg" width="900">
+
  # Full Wiring Table
 
 <details>
