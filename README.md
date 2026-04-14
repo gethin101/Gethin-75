@@ -28,7 +28,7 @@ I made this project to learn the fundamentals of how keyboards and macropads wor
 |-------------|-----|
 | <img src="assets/build/1.jpg" width="700"> | <img src="assets/build/4.jpeg" width="700"> |
 | <img src="assets/build/3.jpeg" width="700"> | <img src="assets/build/5.jpeg" width="700"> |
-| <img src="assets/build/2.jpeg" width="700" height="600"> | <img src="assets/build/6.jpeg" width="700"> |
+| <img src="assets/build/2.jpeg" width="700" height="600"> | <img src="assets/build/6.jpeg" width="700"> <img src="assets/build/6.jpeg" width="700"> |
 
 
 # Design Images
