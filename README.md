@@ -139,7 +139,7 @@ My macro keys at the moment:
 # Keys
 My keyboard is a 75% keyboard with a total of 93 keys - 85 normal and 8 custom macro keys.
 
-Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/#/gists/a3df558aee879b924d336356534e8c5d) <br>
+Here is the link to my custom [keyboard layout](https://www.keyboard-layout-editor.com/#/gists/a3df558aee879b924d336356534e8c5d) <br>
 
 
 <img src="assets/layout.png" width="700">
