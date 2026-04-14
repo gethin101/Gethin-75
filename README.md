@@ -183,7 +183,7 @@ My spacebar, left shift, right shift, enter and backspace all need MX stabilizer
 |Enter | 2.25u | 2u plate-mount |
 |Backspace | 2u | 2u plate-mount |
 
-
+ <img src="assets/build/7.jpeg" width="900">
 
 ---
 
