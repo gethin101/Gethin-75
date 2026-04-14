@@ -28,6 +28,8 @@ I made this project to learn the fundamentals of how keyboards and macropads wor
 
  <img src="assets/build/1.jpg" width="900">
 
+---
+
 # Final Build
 | Final Build | PCB |
 |-------------|-----|
