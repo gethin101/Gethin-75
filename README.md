@@ -128,9 +128,9 @@ My macro keys at the moment:
 - Task Manager
 
 **Setup:**
-- Flash [CircuitPython](/Firmware/adafruit-circuitpython-raspberry_pi_pico2-en_GB-10.1.3.uf2) onto my pico
+- Flash [CircuitPython](/Firmware/adafruit-circuitpython-raspberry_pi_pico2-en_GB-10.1.3.uf2) onto the pico
 - Download KMK from [Github](/Firmware/kmk) and copy to root
-- Download [code.py](/Firmware/code.py) onto the pico
+- Import [code.py](/Firmware/code.py) onto the pico using Thonny
 
 # Keys
 My keyboard is a 75% keyboard with a total of 93 keys - 85 normal and 8 custom macro keys.
@@ -156,11 +156,6 @@ Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/
 | 0 | Shipping (will refund if extra) | Told to put this | £10 | $13.37 | [Slack](https://hackclub.enterprise.slack.com/archives/C083P4FJM46) |
 | **390** | **Total cost:** | **May vary slightly** | **£70.69** | **$94.49** | [BOM](/Bom.csv) |
 
-
-
-**Please note that I was told to add an extra estimate for shipping costs as well as the printing legion costs that I will return to HQ if not used**
-
-**Also lots of the AliExpress prices have been fluctuating up and down but I have just put down the current prices for my BOM**
 
 # Cart Screenshots
 
