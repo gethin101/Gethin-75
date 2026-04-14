@@ -23,6 +23,11 @@ I made this project to learn the fundamentals of how keyboards and macropads wor
 - **Rubber feet pads for stability**
 - **Easy assembly with no screws**
 
+
+ <div align="center"><img src="assets/pcb.png" width="900"></div>
+
+ <img src="assets/build/1.jpg" width="900">
+
 # Final Build
 | Final Build | PCB |
 |-------------|-----|
@@ -73,9 +78,6 @@ Here, you can see my KiCad schematic, PCB layout and 3D model of my PCB. On the 
 <img src="/assets/assembly.png" alt="assembly" height="120%"/>
 </details>
 
- <div align="center"><img src="assets/pcb.png" width="900"></div>
-
- <img src="assets/build/1.jpg" width="900">
 
  # Full Wiring Table
 
