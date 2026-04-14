@@ -23,9 +23,9 @@ I made this project to learn the fundamentals of how keyboards and macropads wor
 - **Rubber feet pads for stability**
 - **Easy assembly with no screws**
 
-# Final Build
-| PCB | CAD |
-|-----|-----|
+# Build
+| Final Build | PCB |
+|-------------|-----|
 | <img src="assets/schem.png" width="700"> | <img src="assets/case.png" width="700"> |
 | <img src="assets/pcb.png" width="700"> | <img src="assets/plate.png" width="700"> |
 | <img src="assets/pcb_3D.png" width="700"> | <img src="assets/assembly.png" width="700"> |
