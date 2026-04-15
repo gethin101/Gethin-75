@@ -18,7 +18,7 @@ I made this project to learn the fundamentals of how keyboards and macropads wor
 - **Powered by a Raspberry Pi Pico**
 - **Custom KMK firmware**
 - **Simple USB connectivity**
-- **Inter-changable Cherry MX key switches**
+- **Clicky Cherry MX key switches**
 - **3D printed case & plate**
 - **Rubber feet pads for stability**
 - **Easy assembly with no screws**
