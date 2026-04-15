@@ -24,9 +24,11 @@ I made this project to learn the fundamentals of how keyboards and macropads wor
 - **Easy assembly with no screws**
   
 ---
- <div align="center"><img src="assets/pcb.png" width="900"></div>
+
 
  <img src="assets/build/1.jpg" width="900">
+ <div align="center"><img src="assets/pcb.png" width="900"></div>
+
 
 ---
 
