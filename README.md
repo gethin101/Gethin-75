@@ -22,6 +22,8 @@ I made this project to learn the fundamentals of how keyboards and macropads wor
 - **3D printed case & plate**
 - **Rubber feet pads for stability**
 - **Easy assembly with no screws**
+
+Demo video: [click here](https://drive.google.com/file/d/18uSU1EbHXQhmAcJua5LjIKMJpCC8aHLT/view?usp=drive_link)
   
 ---
 
